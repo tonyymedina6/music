@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Reproductor</title>
+</head>
+<body style="margin:0; padding:10px; background:#f0f0f0; font-family:sans-serif; text-align:center;">
+  <h3>🎶 Morat - A Dónde Vamos</h3>
+  <audio controls autoplay loop style="width: 100%;">
+    <source src="https://tonyymedina6.github.io/music/Morat%20-%20A%20D%C3%B3nde%20Vamos%20(Video%20Oficial).mp3" type="audio/mpeg">
+    Tu navegador no soporta audio.
+  </audio>
+</body>
+</html>
